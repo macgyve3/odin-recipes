@@ -1,0 +1,24 @@
+body {
+    font-family: cursive;
+    background-color: bisque;
+}
+
+.ingredients {
+    font-size: larger ;   
+    color: blue; 
+}
+
+.steps {
+    font-size: larger ;   
+    color: rgb(115, 41, 145);
+}
+
+.protip {
+    font-size: larger ;   
+    color: red;
+}
+
+.cooknserve {
+    font-size: larger ;   
+    color: brown;
+}
